@@ -27,21 +27,35 @@ flutter:
 
 
   assets:
-    - assets/BackGround/Empty.png
-    - assets/Icon/Frame 12255.png
-    - assets/Icon/Home Indicator.png
-    - assets/BackGround/Thông tin 1.png
-    - assets/Icon/Frame 12255 (1).png
-    - assets/BackGround/camera.png
-    - assets/Icon/Frame 12255 (2).png
-    - assets/Icon/error.png
-    - assets/Icon/info.png
-    - assets/Icon/success.png
-    - assets/Icon/warning.png
-    - assets/Icon/bgElements.png
-    - assets/Icon/ErrorIcon.png
-    - assets/Icon/Icon2.png
-    - assets/Icon/Icon3.png
-    - assets/Icon/Icon4.png
-    - assets/Icon/Icon5.png
-    - assets/Icon/Icon6.png
+    - assets/BackGround/27059 1.png
+    - assets/BackGround/Component 7045.png
+    - assets/BackGround/group7013.png
+    - assets/Icon/google.png
+    - assets/Icon/facebook.png
+    - assets/Icon/Show.png
+    - assets/BackGround/Group 7030.png
+    - assets/BackGround/Group 7014.png
+    - assets/BackGround/Illustrator.png
+    - assets/BackGround/photographer.png
+    - assets/BackGround/video_creator.png
+    - assets/BackGround/Designer.png
+    - assets/Icon/Frame 33843.png
+    - assets/Icon/Search.png
+    - assets/BackGround/Category copy.png
+    - assets/BackGround/Group 7010.png
+    - assets/BackGround/Home.png
+    - assets/BackGround/Notification copy.png
+    - assets/BackGround/Profile.png
+    - assets/BackGround/Surface.png
+    - assets/BackGround/Rectangle 4.png
+    - assets/Icon/search-normal.png
+    - assets/Icon/share.png
+    - assets/Icon/arrow-left.png
+    - assets/Icon/Frame 96.png
+    - assets/Icon/danh_gia.png
+    - assets/Icon/sales.png
+    - assets/Icon/Frame 12521.png
+    - assets/Icon/Frame 12602.png
+    - assets/Icon/Frame 12603.png
+    - assets/Icon/content.png
+    - assets/Icon/Frame 12543.png
